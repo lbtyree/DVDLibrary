@@ -1,0 +1,7 @@
+New Movie::2021::R::John Doe::Marvel ::9/10 IMDB
+The Shining::1980::R::Stanley Kubrick::Warner Brothers::8.4/10 IMDB
+The Lord of The Rings (The Fellowship of The Rings)::2001::PG-13::Peter Jackson::New Line Cinema::8.8/10 IMDB
+Scarface::1983::R::Brian De Palma::Universal Pictures::8.3/10 IMDB
+Pulp Fiction::1994::R::Quentin Tarantino::Miramax Films::8.9/10 IMDB
+The Titanic::1997::PG-13::James Cameron::Paramount Pictures::7.8/10 IMDB
+Fight Club::1999::R::David Fincher::Fox 2000 Pictures::8.8/10 IMDB
